@@ -1,4 +1,3 @@
-# python-practice
 # python-practice baiscs
 Hi, Iam a CSE (AI/ML) student.
 this repository contains my daily pyton learning and practice.
